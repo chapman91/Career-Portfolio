@@ -1,9 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2023-09-13T03:58:48.509Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" version="21.7.4" etag="ZzkaxATAxq2WdR2koO2U" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-13T11:26:47.288Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="GJOTP88cAWfzki6ihKn6" version="21.7.4" type="github">
   <diagram name="Page-1" id="1Gnks2G4VFnFFabbXrGB">
-    <mxGraphModel>
+    <mxGraphModel dx="4198" dy="1468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="rNolEM0UqRIu4r7r6WYR-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;" edge="1" parent="1" source="rNolEM0UqRIu4r7r6WYR-1" target="rNolEM0UqRIu4r7r6WYR-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rNolEM0UqRIu4r7r6WYR-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;PERSONAL NETWORK LAB&amp;nbsp;&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A9C4EB;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="10" width="960" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rNolEM0UqRIu4r7r6WYR-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#FFF2CC;shadow=1;" edge="1" parent="1" source="rNolEM0UqRIu4r7r6WYR-2" target="rNolEM0UqRIu4r7r6WYR-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rNolEM0UqRIu4r7r6WYR-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Month 1: Setting Up the Basics&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#FFF2CC;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="150" width="320" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="rNolEM0UqRIu4r7r6WYR-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Week 1: Preparation&lt;br&gt;&lt;br&gt;- Identify hardware and software resources&lt;br&gt;- Install VirtualBox or VMware Workstation&amp;nbsp;&lt;br&gt;- Plan network design&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#FFF2CC;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="360" width="300" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="rNolEM0UqRIu4r7r6WYR-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Week 2: Foundation&amp;nbsp;&lt;br&gt;- Install Linux (e.g Ubuntu Server ) for router VM&lt;br&gt;- configure basic network settings&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#FFF2CC;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="600" width="300" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="rNolEM0UqRIu4r7r6WYR-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Week 3: Virtual Network Setup&lt;br&gt;- Create client and server VMs&lt;br&gt;- Set up virtual switch&amp;nbsp;&lt;br&gt;-Establish basic connectivity&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#FFF2CC;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="850" width="300" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="rNolEM0UqRIu4r7r6WYR-9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Week 4: Learning the Basics&lt;br&gt;&lt;br&gt;-Study IP addressing, subnetting, and OSI mode&lt;br&gt;l&amp;nbsp;&lt;br&gt;-Practice basic configurations&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#FFF2CC;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="1100" width="300" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="rNolEM0UqRIu4r7r6WYR-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Month&amp;nbsp; 2: Expanding and Learning&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#FFF2CC;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="1350" width="340" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="rNolEM0UqRIu4r7r6WYR-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Week 5: Adding Services&amp;nbsp;&lt;br&gt;&lt;br&gt;- Install DNS and DHCP servers&lt;br&gt;&lt;br&gt;- Set up DHCP for client VMs&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#FFF2CC;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="1600" width="340" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="rNolEM0UqRIu4r7r6WYR-12" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&lt;br&gt;Week 6: Routing and Switching&lt;br&gt;&lt;br&gt;- Experiment with routing configurations&amp;nbsp;&lt;br&gt;&lt;br&gt;- Create VLANs and practice switching&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#FFF2CC;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="1880" width="340" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="rNolEM0UqRIu4r7r6WYR-13" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Week 7: Network Security Basic&amp;nbsp;&lt;br&gt;&lt;br&gt;- Implement firewall rules and security policies&lt;br&gt;&lt;br&gt;- Learn about security threats and counter-measures&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#FFF2CC;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="2130" width="350" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="rNolEM0UqRIu4r7r6WYR-14" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Week 8: Troubleshooting and Monitoring&amp;nbsp;&lt;br&gt;&lt;br&gt;- Create network issues for practice&lt;br&gt;&amp;nbsp;&lt;br&gt;- Use monitoring tools for analysis&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#FFF2CC;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="2390" width="360" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
