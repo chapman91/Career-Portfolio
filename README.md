@@ -26,11 +26,11 @@ I believe in transparency and continuous improvement. By sharing my journey on G
 
 I'm always open to collaboration and networking opportunities. Feel free to reach out and connect with me.
 
-📧 webdevdoneil@proton.me
+📧 Email: webdevdoneil@proton.me
 
 🔗 Linkedin: https://www.linkedin.com/in/doneil-chapman-239209299?trk=public_post_follow-view-profile
 
-🐦 Twitter: hhtps://x.com/raryfly/
+🐦 Twitter: https://x.com/raryfly/
 
 Thank you for joining me on my journey! Together, we'll shape a secure and decentralized future. 🌐
 
